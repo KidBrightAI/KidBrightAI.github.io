@@ -18,13 +18,6 @@
 
 
 /*!
- * Vue.js v2.5.2
- * (c) 2014-2017 Evan You
- * Released under the MIT License.
- */
-
-
-/*!
  * BootstrapVue Icons, generated from Bootstrap Icons 1.2.2
  *
  * @link https://icons.getbootstrap.com/
@@ -395,4 +388,11 @@ PERFORMANCE OF THIS SOFTWARE.
  * vuex v3.6.2
  * (c) 2021 Evan You
  * @license MIT
+ */
+
+
+/*!
+ * Vue.js v2.5.2
+ * (c) 2014-2017 Evan You
+ * Released under the MIT License.
  */
